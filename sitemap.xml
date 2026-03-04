@@ -13,6 +13,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://treview4/fr-fr/</loc>
+    <lastmod>2026-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://treview4/it-it/</loc>
     <lastmod>2026-03-04</lastmod>
     <changefreq>weekly</changefreq>
